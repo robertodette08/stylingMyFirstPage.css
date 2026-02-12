@@ -7,15 +7,10 @@
   <link rel="stylesheet" href="css/style.css"> 
 </head>
 <body>
-  <header>
-    <h1 id="top">STYLESHEET HOMEWORK</h1>
-    <style>
-     stylesheet homework {
-        color: pink;
-        font-family: arial! important;}
-    </style>
-
-
-
-</body>
-
+    <header class="main-header">
+        <h1>homework for css</h1>
+     <h1 style="color: rgb(200, 50, 100); background-color: #FFFF00; padding: 10px;">
+  </header>
+  
+    
+   
